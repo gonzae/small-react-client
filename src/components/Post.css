@@ -1,3 +1,9 @@
+.Post {
+  border: 1px solid #DDD;
+  padding: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(200,200,200,0.75);
+}
+
 .Post .post-body, .Post h2 {
   color: #303030;
 }
