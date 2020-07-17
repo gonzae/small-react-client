@@ -1,0 +1,13 @@
+.Post .post-body, .Post h2 {
+  color: #303030;
+}
+
+.Post h2 {
+  font-size: 150%;
+}
+
+.Post h3 {
+  color: gray;
+  font-style: italic;
+  font-size: 80%;
+}

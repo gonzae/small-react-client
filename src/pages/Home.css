@@ -1,0 +1,13 @@
+.HomePage {
+  color: gray;
+  padding: 40px;
+}
+
+.HomePage .Post-wrapper:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.HomePage .client-id {
+  text-align: right;
+  color: red;
+}
